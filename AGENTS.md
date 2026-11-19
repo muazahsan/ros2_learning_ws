@@ -3,7 +3,7 @@
 ## Profile
 - **Background:** ECE graduate with robotics hardware experience, new to ROS 2.
 - **Learning Style:** Learn by doing. Uses AI to write code, but must understand every file and line.
-- **Communication:** Use simple words. Explain step by step. Use visual infographics/diagrams (Mermaid or ASCII) and give short exercises to check understanding.
+- **Communication:** Use simple words. Explain pure ROS 2 Humble concepts (from `docs.ros.org/en/humble/`, no MCU/Arduino analogies). Explain step by step, use visual infographics/diagrams, and give short exercises to check understanding.
 
 ## Project List
 1. `01_cli_turtlesim`
