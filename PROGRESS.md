@@ -6,8 +6,8 @@ Status options: `Not started` / `In progress` / `Broke & fixed` / `Done`
 | Module | Topic | Status | Date | Notes |
 |--------|-------|--------|------|-------|
 | 1.1 | Environment + `turtlesim` & `rqt` | Done | 2026-11-19 | Ran turtlesim, teleop, spawned turtle2 |
-| 1.2 | Understanding **Nodes** | In progress | 2026-11-19 | |
-| 1.3 | Understanding **Topics** | Not started | - | |
+| 1.2 | Understanding **Nodes** | Done | 2026-11-19 | Learned nodes, `ros2 node list/info`, and `--remap __node` |
+| 1.3 | Understanding **Topics** | In progress | 2026-11-19 | |
 | 1.4 | Understanding **Services** | Not started | - | |
 | 1.5 | Understanding **Parameters** | Not started | - | |
 | 1.6 | Understanding **Actions** | Not started | - | |
