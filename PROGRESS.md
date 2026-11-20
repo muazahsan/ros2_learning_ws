@@ -39,3 +39,8 @@ Status options: `Not started` / `In progress` / `Broke & fixed` / `Done`
 | 4.2 | `ros2_control` Mock (`13_ros2_control_mock`) | Not started | - | |
 | 4.3 | MoveIt 2 (`14_moveit`) | Not started | - | |
 | 4.4 | Final SCARA Digital Twin (`15_final_scara_twin`) | Not started | - | |
+
+## Mini Projects (`src/mini_projects/`)
+| # | Project | Package | Status | Date | Notes |
+|---|---------|---------|--------|------|-------|
+| 01 | Turtlesim Character Drawer | `turtle_char_drawer` | Done | 2026-11-20 | Draws A-Z and 0-9 in turtlesim from terminal input using Topics + Services |

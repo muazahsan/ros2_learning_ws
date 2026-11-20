@@ -22,6 +22,11 @@
 14. `14_moveit`
 15. `15_final_scara_twin`
 
+## Custom / Mini Projects Organization
+- Any custom, bonus, or experimental project requested by the user outside the 15 curriculum projects MUST be placed in its own numbered, clearly labeled directory under `src/mini_projects/<NN>_<project_name>/` (for example, `src/mini_projects/01_turtle_char_drawer/`).
+- Every mini-project directory must include a `README.md` with its ROS 2 concepts, build command, and run commands so it stays structured and reusable.
+- Track completed mini-projects under the **Mini Projects** section in `PROGRESS.md`.
+
 ## Workflow
 1. User says which project to start.
 2. Assistant explains the concept in simple words with a visual diagram (infographic).
