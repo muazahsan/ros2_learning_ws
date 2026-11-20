@@ -44,3 +44,4 @@ Status options: `Not started` / `In progress` / `Broke & fixed` / `Done`
 | # | Project | Package | Status | Date | Notes |
 |---|---------|---------|--------|------|-------|
 | 01 | Turtlesim Character Drawer | `turtle_char_drawer` | Done | 2026-11-20 | Draws A-Z and 0-9 in turtlesim from terminal input using Topics + Services |
+| 02 | Autonomous Turtle Hunter | `turtle_hunter` | Done | 2026-11-20 | Multi-node target spawner + closed-loop proportional chaser in turtlesim |
