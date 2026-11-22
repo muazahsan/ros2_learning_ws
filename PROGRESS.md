@@ -45,3 +45,9 @@ Status options: `Not started` / `In progress` / `Broke & fixed` / `Done`
 |---|---------|---------|--------|------|-------|
 | 01 | Turtlesim Character Drawer | `turtle_char_drawer` | Done | 2026-11-20 | Draws A-Z and 0-9 in turtlesim from terminal input using Topics + Services |
 | 02 | Autonomous Turtle Hunter | `turtle_hunter` | Done | 2026-11-20 | Multi-node target spawner + closed-loop proportional chaser in turtlesim |
+| 03 | Multi-Robot Swarm Convoy | `turtle_swarm` | Done | 2026-11-21 | 5-robot leader-follower convoy with safe-gap control & autonomous figure-8 leader |
+| 04 | Shape-Shifting Formation Swarm | `turtle_formation` | Done | 2026-11-21 | 5-robot swarm using 2D frame transforms to morph live (V / Diamond / Line / Circle) |
+| 05 | Two-Robot Writer & Eraser | `turtle_draw_erase` | Done | 2026-11-22 | Producer-consumer multi-robot nodes: turtle1 draws A-Z/0-9 and turtle2 erases it |
+| 06 | Turtlesim Smiley Face | `turtle_smiley` | Done | 2026-11-22 | Draws a colorful smiley face using parametric circle/arc waypoint trajectories |
+| 07 | Turtlesim Iron Man Helmet | `turtle_ironman` | Done | 2026-11-22 | Draws Iron Man's red-and-gold helmet with glowing cyan eyes using layered waypoints |
+| 08 | APF Obstacle Avoidance | `turtle_apf_nav` | Done | 2026-11-22 | Artificial Potential Fields obstacle avoidance with ROS 2 Launch File & live Parameters |
